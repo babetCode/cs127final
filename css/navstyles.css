@@ -59,15 +59,21 @@ body{
 }
 
 #main-header ul a{
+    font-family: 'Roboto', sans-serif;
     text-decoration: none;
     color: #444;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: bold;
     font-size: 0.8rem;
     display: block;
     transition: all ease .4s;
     padding: 0pt 10pt;
-    border-radius: 2pt;
+    border-radius: 5pt 5pt 0pt 0pt;
+}
+
+#main-header ul a.active{
+    background-color: darkred;
+    color: snow;
 }
 
 #main-header ul a:hover{
