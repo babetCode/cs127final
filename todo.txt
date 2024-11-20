@@ -1,0 +1,5 @@
+add alt text to all images
+format images on About, Locations, and Our Story pages
+add footer
+correct the spacing in nav bar
+align hamburger menu for small screen functionality
