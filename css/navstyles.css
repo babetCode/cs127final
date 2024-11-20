@@ -1,5 +1,5 @@
 html{
-    font-size: 14pt;
+    font-size: 16pt;
 }
 
 body{
@@ -37,7 +37,7 @@ body{
 }
 
 #main-header #socials img{
-    max-width: 20pt;
+    max-width: 23pt;
     transition: all ease 0.3s;
 }
 
