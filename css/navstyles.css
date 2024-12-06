@@ -54,8 +54,10 @@ body{
     padding: 0pt;
     list-style-type: none;
     display: flex;
-    gap: 0pt;
-    transition: all ease .4s
+    gap: 20px;
+    transition: all ease .4s;
+    justify-content: center;
+    align-items: center;
 }
 
 #main-header ul a{
